@@ -1,4 +1,4 @@
 # Zomato-EDA
-Data Cleaning 
-Removing NULL value
+Data Cleaning, 
+Removing NULL value and
 Visualization
